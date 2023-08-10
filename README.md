@@ -3,7 +3,7 @@
 1. Creating end devices, hubs
 2. Creating connections between them to form a topology
 3. Sending and receiving data
-4. Created two end devices with a dedicated connection and enable data transmission between them. Note that this is only a simulation as no real data can be shared.
+4. Created two end devices with a dedicated connection and enable data transmission between them. Note that this is only a simulation as no real data can be shared.
 5. Created a star topology with five end devices connected to a hub
 and enable communication within end devices. This followed the exact working principles of hub.
 
